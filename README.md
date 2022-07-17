@@ -1,1 +1,2 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes Overview
+A map was developed using HTML, Javascript, d3 libraries, and the Leaflet API library. The maps were developed to show an up-to-date earthquake map using USGS geoJSON data. The layers of this map include: all earthquakes, tectonic plate boundaries, and Major Earthquakes over 4.5 magnitude. A legend is included based on magnitude and the tile layers include a streets base layer, a satellite streets base layer, and a dark map base layer.
